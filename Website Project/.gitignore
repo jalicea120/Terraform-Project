@@ -1,0 +1,4 @@
+# Ignore Terraform provider and module cache
+.terraform/
+.terraform.lock.hcl
+.DS_Store
